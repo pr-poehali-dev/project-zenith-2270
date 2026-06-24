@@ -1,7 +1,7 @@
-import { LinkBioPage } from "./pages/LinkBioPage"
+import DocGeneratorPage from "./pages/DocGeneratorPage"
 
 function App() {
-  return <LinkBioPage />
+  return <DocGeneratorPage />
 }
 
 export default App
